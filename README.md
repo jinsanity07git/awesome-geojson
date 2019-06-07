@@ -32,6 +32,8 @@ GeoJSON utilities that will make your life easier.
 ### editors & viewers
 
 * [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
+  * GitHub: [link](https://github.com/mapbox/geojson.io) 
+  * new fork at [https://geojson.net](https://geojson.net/). 
 * [umap](http://umap.openstreetmap.fr/en/): web-based editor, supports sharing on-site
 * [geojson.tools](http://geojson.tools/): web-based editor from HERE XYZ
 * [simple geojson editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/): geojson editor on a google map, by google
@@ -123,6 +125,16 @@ GeoJSON utilities that will make your life easier.
 * [geojson.win](http://geojson.win): More readable version of the spec.
 * [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
+
+
+
+## Supplements 
+
+* How to convert and prepare TopoJSON files for interactive mapping with d3 :[ link](https://hackernoon.com/how-to-convert-and-prepare-topojson-files-for-interactive-mapping-with-d3-499cf0ced5f) 
+  * [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON 
+  * [topojson-client](https://github.com/topojson/topojson-client) 
+
+ 
 
 ## License
 
